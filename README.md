@@ -13,7 +13,7 @@ Google Docs.
 ## Install
 
 ```bash
-git clone <this repository's URL> career-ops
+git clone https://github.com/respirenoro/career-ops.git
 claude --plugin-dir ./career-ops
 ```
 
