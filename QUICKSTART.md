@@ -5,7 +5,7 @@ Career Ops is a Claude plugin that scans job boards, scores each posting against
 ## 1. Install
 
 ```bash
-claude --plugin-dir "<path to career-ops-plugin>"
+claude --plugin-dir "<path to jobhunter>"
 ```
 
 Your private files live in `data/`. Git ignores that folder, so never commit or upload it.

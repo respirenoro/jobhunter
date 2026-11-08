@@ -1,6 +1,6 @@
 ---
 name: help
-description: "See all available career-ops skills, what they do, and which one to use next based on where you are in your job search. Use when someone says 'help', 'what can you do', 'how does this work', or seems unsure what to do next."
+description: "See all available jobhunter skills, what they do, and which one to use next based on where you are in your job search. Use when someone says 'help', 'what can you do', 'how does this work', or seems unsure what to do next."
 argument-hint: "[skill name for detailed help]"
 user-invocable: true
 allowed-tools:
@@ -8,7 +8,7 @@ allowed-tools:
   - Glob
 ---
 
-# career-ops Help
+# jobhunter Help
 
 > Read `references/standing-rules.md` before starting. Its rules override the defaults in this skill.
 
@@ -28,7 +28,7 @@ If the user asked about a specific skill, show detailed help for that skill.
 Otherwise show the full directory:
 
 ```
-## career-ops - Your Job Search Copilot
+## jobhunter - Your Job Search Copilot
 
 | Skill | What It Does | Try Saying |
 |---|---|---|
@@ -79,7 +79,7 @@ Based on the user's current state, suggest the most valuable next action:
 ## Step 3: Workflow Overview (if user asks "how does this work")
 
 ```
-## The career-ops Workflow
+## The jobhunter Workflow
 
 1. **Set up** your profile (one time, 5 minutes)
    ↓

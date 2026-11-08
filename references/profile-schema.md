@@ -1,7 +1,7 @@
 # Profile Schema Reference
 
 This documents every field in `data/profile.yml`. Users can edit this file
-directly or use the `/career-ops:setup` command to fill it conversationally.
+directly or use the `/jobhunter:setup` command to fill it conversationally.
 
 ## Fields
 

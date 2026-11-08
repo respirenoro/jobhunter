@@ -13,8 +13,8 @@ Google Docs.
 ## Install
 
 ```bash
-git clone https://github.com/respirenoro/career-ops.git
-claude --plugin-dir ./career-ops
+git clone https://github.com/respirenoro/jobhunter.git
+claude --plugin-dir ./jobhunter
 ```
 
 Then say **"set up my profile"**. Setup takes 20-30 minutes, because it

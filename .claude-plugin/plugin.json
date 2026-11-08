@@ -1,5 +1,5 @@
 {
-  "name": "career-ops",
+  "name": "jobhunter",
   "version": "2.0.0",
   "description": "Job search copilot: scores postings honestly, builds tailored one-page and target-state resumes, scans HiringCafe and career pages, logs to a Google Sheet, and writes in your own voice without AI tells.",
   "author": {
