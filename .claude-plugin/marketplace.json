@@ -1,0 +1,19 @@
+{
+  "name": "jobhunter",
+  "owner": {
+    "name": "respirenoro"
+  },
+  "metadata": {
+    "description": "Job search copilot for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "jobhunter",
+      "source": "./",
+      "description": "Scores postings honestly, builds tailored one-page and target-state resumes, scans HiringCafe and career pages, logs to a Google Sheet, and writes in your own voice without AI tells.",
+      "version": "2.0.0",
+      "license": "MIT",
+      "keywords": ["job-search", "resume", "hiringcafe", "human-prose"]
+    }
+  ]
+}

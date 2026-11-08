@@ -12,6 +12,21 @@ Google Docs.
 
 ## Install
 
+In Claude Code, run these two commands:
+
+```
+/plugin marketplace add respirenoro/jobhunter
+```
+
+```
+/plugin install jobhunter@jobhunter
+```
+
+Restart Claude Code if it asks you to. The plugin then loads in every session.
+To update later, run `/plugin marketplace update jobhunter`.
+
+To run it from a local copy instead:
+
 ```bash
 git clone https://github.com/respirenoro/jobhunter.git
 claude --plugin-dir ./jobhunter
