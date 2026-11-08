@@ -1,0 +1,8 @@
+# Candidate data (PII protection)
+data/
+config/
+
+# OS files
+.DS_Store
+Thumbs.db
+prd/
